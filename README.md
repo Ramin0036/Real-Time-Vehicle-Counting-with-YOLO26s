@@ -142,11 +142,7 @@ if crossed_line and object_id not in id_list:
 This prevents the same tracked object from being counted multiple times.
 
 ### Output
-
-```text
-output.mp4
-```
-
+<img width="512" height="288" alt="custom_vehicle_counter_output" src="https://github.com/user-attachments/assets/b7791830-7649-4533-ba73-ec54b7dfb743" />
 ---
 
 ## ⚖️ Method Comparison
@@ -188,7 +184,11 @@ Real-Time-Vehicle-Counting-with-YOLO26s/
 │   └── object_counter_ultralytics.ipynb
 │
 └── Custom-Method/
-    └── custom_vehicle_counter.ipynb
+│   └── custom_vehicle_counter.ipynb
+│
+└── result/
+    └── object_counter_ultralytics_output
+    └── custom_vehicle_counter_output
 ```
 
 ---
