@@ -186,10 +186,7 @@ Real-Time-Vehicle-Counting-with-YOLO26s/
 │
 └── Custom-Method/
 │   └── custom_vehicle_counter.ipynb
-│
-└── result/
-    └── object_counter_ultralytics_output
-    └── custom_vehicle_counter_output
+
 ```
 
 ---
