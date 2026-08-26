@@ -68,9 +68,7 @@ No class filtering is applied in the current implementation.
 
 ### Output
 
-```text
 <img width="384" height="216" alt="object_counter_ultralytics_output" src="https://github.com/user-attachments/assets/c7b14d2c-bcb5-44c4-b9f9-b008ae4751b7" />
-```
 
 ---
 
