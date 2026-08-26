@@ -1,5 +1,6 @@
 # 🚗 Real-Time Vehicle Counting with YOLO26s
 
+<img width="512" height="288" alt="custom_vehicle_counter_output" src="https://github.com/user-attachments/assets/b7791830-7649-4533-ba73-ec54b7dfb743" /> <img width="384" height="216" alt="object_counter_ultralytics_output" src="https://github.com/user-attachments/assets/c7b14d2c-bcb5-44c4-b9f9-b008ae4751b7" />
 A real-time vehicle counting system built with **YOLO26s**, featuring two independent counting approaches:
 
 1. **Ultralytics ObjectCounter** — using the built-in counting solution provided by Ultralytics.
@@ -286,24 +287,6 @@ These coordinates can be adjusted according to the camera position and video res
 
 ---
 
-## 🎥 Output
-
-### Ultralytics ObjectCounter
-
-```text
-object_counting_output.avi
-```
-
-### Custom Method
-
-```text
-output.mp4
-```
-
-Generated video files are excluded from version control through `.gitignore`.
-
----
-
 ## 🚀 Future Improvements
 
 * 🚗 Class-specific counting for cars, trucks, buses, and other vehicles
@@ -328,15 +311,3 @@ Generated video files are excluded from version control through `.gitignore`.
 * **Jupyter Notebook**
 
 ---
-
-## 📌 Project Status
-
-🚧 **In Development**
-
-The current version focuses on comparing the built-in Ultralytics ObjectCounter with a custom YOLO26s tracking-based counting algorithm.
-
----
-
-## 📄 License
-
-This project is intended for educational and research purposes.
